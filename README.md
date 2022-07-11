@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dedmarks
-- 👀 I’m interested in crypto, skiing, programming, traveling
+- 👀 I’m interested in crypto, skiing, programming, traveling, piano
 - 🌱 I’m currently golang, blockchain and react.js
 - 💞️ I’m looking to collaborate on interesting crypto projects
 - 📫 How to reach me: dedmark99@gmail.com
